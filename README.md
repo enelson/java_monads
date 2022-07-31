@@ -30,3 +30,5 @@ The `State` monad can be seen as similar to the reader monad, except that the st
 
 http://eed3si9n.com/learning-scalaz/State.html  
 https://softwarecorner.wordpress.com/2013/08/29/scalaz-state-monad/
+
+Test
